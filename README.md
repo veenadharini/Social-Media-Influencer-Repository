@@ -4,12 +4,12 @@ Project Objective The objective of our project is to design a database of YouTub
 
 
 Team Members:
+
+            Veenadharini Shukla (NUID: 002704948)
             
             Hamzah Mukadam (NUID: 002741426)
 
             Shreya Maher (NUID: 002770227)
-
-            Veenadharini Shukla (NUID: 002704948)
 
 
 Files included in assignment:
